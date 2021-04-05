@@ -17,7 +17,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React<br/>
-          Jenkins trial 2
+          Jenkins trial 2 - firewall updated
         </a>
       </header>
     </div>
